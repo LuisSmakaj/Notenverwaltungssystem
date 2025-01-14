@@ -7,3 +7,4 @@
 * 3. Als Eltern wollen wir die Noten des Kinds sehen.
 * 4. Als Eltern wollen wir eine Nachricht bekommen, wenn das Kind neue Noten bekommt.
 * 5. E-Albania will mit dem System synchronisieren
+![Usecase](https://github.com/user-attachments/assets/417025a6-026b-4c2f-8ac5-fe9b1f10b973)
