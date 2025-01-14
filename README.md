@@ -6,4 +6,4 @@
 * 2. Als Schüler will ich meine Noten sehen.
 * 3. Als Eltern wollen wir die Noten des Kinds sehen.
 * 4. Als Eltern wollen wir eine Nachricht bekommen, wenn das Kind neue Noten bekommt.
-* 5. Als Schüler will ich meine Durchschnittsnote sehen.
+* 5. E-Albania will mit dem System synchronisieren
